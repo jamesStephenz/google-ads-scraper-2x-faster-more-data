@@ -1,0 +1,60 @@
+[
+  {
+    "id": "CR08100116008800354305",
+    "advertiserId": "AR10303883279069085697",
+    "creativeId": "CR08100116008800354305",
+    "advertiserName": "My Jewellery B.V",
+    "format": "IMAGE",
+    "url": "https://adstransparency.google.com/advertiser/AR10303883279069085697/creative/CR08100116008800354305?region=DE&platform=YOUTUBE&start-date=2022-01-01&end-date=2024-12-31&format=IMAGE",
+    "previewUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT5cZ5keol3Qh0OGy8BxONGNpoc9OeRl771pz5cN4FnyOwhmGU",
+    "previewStoreKey": "CR08100116008800354305_preview_0.jpg",
+    "firstShownAt": "1710421161",
+    "lastShownAt": "1758540064",
+    "impressions": "600000",
+    "shownCountries": ["Germany"],
+    "countryStats": [
+      {
+        "code": "DE",
+        "name": "Germany",
+        "firstShownAt": "2024-03-14T00:00:00.000Z",
+        "lastShownAt": "2025-09-22T00:00:00.000Z",
+        "impressions": {
+          "lowerBound": "500000",
+          "upperBound": "600000"
+        },
+        "platformStats": [
+          {
+            "name": "YouTube",
+            "code": "YOUTUBE",
+            "impressions": { "lowerBound": "8000", "upperBound": "9000" }
+          },
+          {
+            "name": "Google Shopping",
+            "code": "SHOPPING",
+            "impressions": { "lowerBound": "3000", "upperBound": "4000" }
+          },
+          {
+            "name": "Google Search",
+            "code": "SEARCH",
+            "impressions": { "lowerBound": "450000", "upperBound": "500000" }
+          }
+        ]
+      }
+    ],
+    "audienceSelections": [
+      { "name": "Demographic info", "hasIncludedCriteria": true, "hasExcludedCriteria": false },
+      { "name": "Geographic locations", "hasIncludedCriteria": true, "hasExcludedCriteria": true },
+      { "name": "Contextual signals", "hasIncludedCriteria": true, "hasExcludedCriteria": true }
+    ],
+    "variants": [
+      {
+        "textContent": "Handykette mit Leopardemuster | My Jewellery - My Jewellery - Bigshopper",
+        "images": [
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT5cZ5keol3Qh0OGy8BxONGNpoc9OeRl771pz5cN4FnyOwhmGU"
+        ],
+        "imageStoreKeys": ["CR08100116008800354305_v0_0.jpg"]
+      }
+    ],
+    "originUrl": "https://adstransparency.google.com/advertiser/AR10303883279069085697?region=DE&platform=YOUTUBE&start-date=2022-01-01&end-date=2024-12-31&format=IMAGE"
+  }
+]
